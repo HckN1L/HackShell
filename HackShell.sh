@@ -19,7 +19,7 @@ print(Fore.GREEN + r"""
 print(Fore.YELLOW + "=" * 62)
 print("https://x.com/HckN1L")
 print("https://github.com/HckN1L")
-print("https://www.linkedin.com/in/indranil-sen-a1888a256")
+print("https://www.linkedin.com/in/HckN1L")
 print("=" * 62 + Style.RESET_ALL)
 
 # Reverse Shell Generator Functions with Netcat Listener
